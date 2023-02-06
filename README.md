@@ -6,6 +6,7 @@
 * Python 3.8+
 * tifffile
 * tdqm
+* imagecodecs
 
 ## Usage
 Put NDPI files in the "data" directory. The script will slice the original files into 512x512 JPG images and save them in the "output" directory.
